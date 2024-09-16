@@ -1,0 +1,21 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.11.0",
+    "@supabase/supabase-js": "^2.45.4",
+    "apollo-server": "^3.13.0",
+    "cloudinary": "^2.4.0",
+    "dotenv": "^16.4.5",
+    "graphql": "^16.9.0",
+    "graphql-upload": "^16.0.2"
+  }
+}
